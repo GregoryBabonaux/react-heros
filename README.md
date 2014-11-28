@@ -1,8 +1,6 @@
 React-Heros
 ===========
 
-ReactJS demo 
-
 Petite démo pour débuter avec ReactJS et comprendre le fonctionnement des components et des events, avec un petit bonus temps réel (Pusher) qui permet d'injecter un nouvel élément... en temps réel dans la page : 
 
 - Ouvrez le fichier scripts/tests.js
