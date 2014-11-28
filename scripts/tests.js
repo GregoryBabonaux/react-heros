@@ -88,7 +88,6 @@ var app = {
   }
 }
 
-
 app.renderItems(app.data);
 
 // Real time events
